@@ -2,6 +2,7 @@
 
 - This contains the backend.
 - PostgreSQL credentials are in .env.
+- The energy data used for the database was taken from ENTSO-E.
 
 # Directory Structure
 - /benchmarkResults contains the results of the benchmarking
