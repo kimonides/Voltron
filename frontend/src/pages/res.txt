@@ -1,0 +1,115 @@
+50Hertz CA
+Amprion CA
+APG CA
+AST BZ
+AST CA
+Austria
+Belgium
+Bosnia Herzegovina
+Bulgaria
+CEPS BZ
+CEPS CA
+CGES BZ
+CGES CA
+CREOS CA
+Croatia
+Cyprus
+Cyprus TSO BZ
+Cyprus TSO CA
+Czech Republic
+DE-AT-LU
+Denmark
+DK1  BZ
+DK2 BZ
+EirGrid CA
+Elering BZ
+Elering CA
+ELES BZ
+ELES CA
+Elia BZ
+Elia CA
+EMS BZ
+EMS CA
+Energinet CA
+ESO BZ
+ESO CA
+Estonia
+Fingrid BZ
+Fingrid CA
+Finland
+Former Yugoslav Republic of Macedonia
+France
+Germany
+Greece
+HOPS BZ
+HOPS CA
+Hungary
+IPTO BZ
+IPTO CA
+Ireland
+IT-Centre-North BZ
+IT-Centre-South BZ
+IT-North BZ
+IT-Sardinia BZ
+IT-Sicily BZ
+IT-South BZ
+Italy
+Italy CA
+Latvia
+Litgrid BZ
+Litgrid CA
+Lithuania
+Luxembourg
+MAVIR BZ
+MAVIR CA
+MEPSO BZ
+MEPSO CA
+Montenegro
+National Grid BZ
+National Grid CA
+Netherlands
+NO1 BZ
+NO2 BZ
+NO3 BZ
+NO4 BZ
+NO5 BZ
+Norway
+NOS BiH BZ
+NOS BiH CA
+Poland
+Portugal
+PSE SA BZ
+PSE SA CA
+REE BZ
+REE CA
+REN BZ
+REN CA
+Romania
+RTE BZ
+RTE CA
+SE1 BZ
+SE2 BZ
+SE3 BZ
+SE4 BZ
+SEPS BZ
+SEPS CA
+Serbia
+Slovakia
+Slovenia
+Spain
+Statnett CA
+SvK CA
+Sweden
+swissgrid BZ
+swissgrid CA
+Switzerland
+TenneT GER CA
+TenneT NL BZ
+TenneT NL CA
+Transelectrica BZ
+Transelectrica CA
+TransnetBW CA
+Ukraine
+Ukraine BEI CA
+Ukraine BZN
+Ukraine IPS CA

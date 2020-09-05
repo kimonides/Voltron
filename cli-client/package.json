@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-exec": "^1.1.2",
+    "chai-http": "^4.3.0",
+    "commander": "^4.0.1",
+    "csv-parser": "^2.3.2",
+    "csv-reader": "^1.0.3",
+    "inquirer": "^7.0.1",
+    "json2csv": "^4.5.4",
+    "mocha": "^7.1.0",
+    "pg": "^7.17.1",
+    "pgbouncer": "^1.0.1",
+    "request": "^2.88.2"
+  }
+}
