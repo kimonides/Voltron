@@ -1,7 +1,7 @@
 # Back-end
 
 - This contains the backend.
-- PostgreSQL credentials are in .env .
+- PostgreSQL credentials are in .env.
 
 # Directory Structure
 - /benchmarkResults contains the results of the benchmarking
