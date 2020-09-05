@@ -44,6 +44,12 @@ If you need to update `npm`, you can make it using `npm`! After running the foll
     $ npm install
     $ npm start
     
+## Running the CLI client
+
+    $ cd /cli-client
+    $ npm install
+    $ npm start
+    
     
 
 
