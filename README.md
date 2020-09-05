@@ -47,6 +47,7 @@ If you need to update `npm`, you can make it using `npm`! After running the foll
 ## Running the CLI client
 
     $ cd /cli-client
+    Configure credentials for the database in config.js
     $ npm install
     $ npm start
     
