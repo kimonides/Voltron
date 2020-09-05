@@ -34,7 +34,7 @@ If you need to update `npm`, you can make it using `npm`! After running the foll
 
     $ cd /back-end
     Configure postgreSQL credentials and database name in /back-end/database.js
-    Import db.tar into postgreSQL
+    Import dbLastBackup.tar into postgreSQL
     $ npm install
     $ npm start
 
